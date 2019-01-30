@@ -23,7 +23,8 @@ exports.config = {
  directConnect : true,
   
 capabilities:{
-  browserName:'chrome'
+  browserName:'chrome',
+  browserName:'firefox'
 },
 
   //  multiCapabilities: [
