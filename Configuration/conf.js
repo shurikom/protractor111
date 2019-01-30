@@ -22,15 +22,15 @@ exports.config = {
 
  directConnect : true,
   
-capabilities:{
-  browserName:'chrome'
-},
+// capabilities:{
+//   browserName:'chrome'
+// },
 
-  //  multiCapabilities: [
-  //   //Parallel Testing with multiple browsers
-  //   {browserName: 'chrome'},
-  //   {browserName: 'firefox'}
-  // ],
+   multiCapabilities: [
+    //Parallel Testing with multiple browsers
+    {browserName: 'chrome'},
+    {browserName: 'firefox'}
+  ],
 //   sauceUser: 'shurikom',
 //  sauceKey: '7f73b1a8-5f83-4c1c-9bf5-4bd0e23b6780',
   
