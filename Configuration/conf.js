@@ -1,6 +1,7 @@
 let SpecReporter = require('jasmine-spec-reporter').SpecReporter;
 var HtmlReporter = require('protractor-beautiful-reporter');
 i am adding new files on ALI
+Bob is changing this file on conf
 exports.config = {
     // to run tests in SAUCELABS
 // sauceUser: 'shurikom',
