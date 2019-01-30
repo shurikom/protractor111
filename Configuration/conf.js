@@ -22,9 +22,9 @@ exports.config = {
 
  directConnect : true,
   
-// capabilities:{
-//   browserName:'chrome'
-// },
+capabilities:{
+  browserName:'chrome'
+},
 
    multiCapabilities: [
     //Parallel Testing with multiple browsers
