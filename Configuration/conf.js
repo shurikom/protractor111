@@ -26,13 +26,13 @@ capabilities:{
   browserName:'chrome'
 },
 
-   multiCapabilities: [
-    //Parallel Testing with multiple browsers
-    {browserName: 'chrome'},
-    {browserName: 'firefox'}
-  ],
-//   sauceUser: 'shurikom',
-//  sauceKey: '7f73b1a8-5f83-4c1c-9bf5-4bd0e23b6780',
+  //  multiCapabilities: [
+  //   //Parallel Testing with multiple browsers
+  //   {browserName: 'chrome'},
+  //   {browserName: 'firefox'}
+  // ],
+  sauceUser: 'shurikom',
+ sauceKey: '7f73b1a8-5f83-4c1c-9bf5-4bd0e23b6780',
   
   
   specs: ['../Tests/AddCustomer.spec.js'], 
