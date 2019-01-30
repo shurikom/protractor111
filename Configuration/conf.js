@@ -1,6 +1,6 @@
 let SpecReporter = require('jasmine-spec-reporter').SpecReporter;
 var HtmlReporter = require('protractor-beautiful-reporter');
-i am adding new files on ALI
+I want to remove it myself BOB
 Ali changed it AGAIN 2.0
 BOB changed this line and remove line 3
 exports.config = {
