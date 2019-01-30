@@ -2,13 +2,8 @@ let SpecReporter = require('jasmine-spec-reporter').SpecReporter;
 var HtmlReporter = require('protractor-beautiful-reporter');
 I want to remove it myself BOB
 Ali changed line 4 and wants BOB to modify line 5
-<<<<<<< HEAD
 BOB changed this line.
 ALI wants to delete line 6
-=======
-BOB modify this line per Ali request.
-and BOB added line 6
->>>>>>> 2761f962c7c065caa696f56bf1a15802fa429ddf
 exports.config = {
     // to run tests in SAUCELABS
 // sauceUser: 'shurikom',
