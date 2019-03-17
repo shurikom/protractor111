@@ -4,6 +4,7 @@ I want to remove it myself BOB
 Ali changed line 4 and wants BOB to modify line 5
 BOB changed this line.
 ALI wants to delete line 6
+Bob changed it March
 exports.config = {
     // to run tests in SAUCELABS
 // sauceUser: 'shurikom',
